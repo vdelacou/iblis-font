@@ -1,0 +1,20 @@
+{
+    "name": "iblis-font",
+    "version": "1.0",
+    "description": "Roboto typeface",
+    "license": "Apache-2.0",
+    "author": "DELACOURT Vincent <vincent.delacourt@gmail.com>",
+    "contributors": [{
+        "name": "DELACOURT Vincent",
+        "email": "vincent.delacourt@gmail.com"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:vdelacou/iblis-font.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vdelacou/iblis-font/issues"
+    },
+    "homepage": "https://github.com/vdelacou/iblis-fontg#readme",
+    "main": "style.css"
+}
