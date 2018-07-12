@@ -1,19 +1,20 @@
 @font-face {
-  font-family: 'iblis-font';
-  src: url('fonts/iblis-font.eot?28hfan');
-  src: url('fonts/iblis-font.eot?28hfan#iefix') format('embedded-opentype'), /**/
-  url('fonts/iblis-font.ttf?28hfan') format('truetype'), /**/
-  url('fonts/iblis-font.woff?28hfan') format('woff'), /**/
-  url('fonts/iblis-font.svg?28hfan#iblis-font') format('svg');
-  font-weight: normal;
+  font-family: 'Iblis';
   font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: /* */
+  url('./fonts/iblis.eot'), /* */
+  url('./fonts/iblis.eot#iefix') format('embedded-opentype'), /* */
+  url('./fonts/iblis.ttf') format('truetype'), /* */
+  url('./fonts/iblis.woff') format('woff'), /* */
+  url('./fonts/iblis.svg') format('svg');
 }
 
 [class^="iblis-"],
 [class*=" iblis-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'iblis-font' !important;
-  speak: none;
+  font-family: 'Iblis' !important;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;

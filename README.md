@@ -53,11 +53,19 @@ You can then display the icon by typing :
 
 `&#xe900;`
 
+Or if you use React:
+
+ ```javascript               
+    <div style={{ fontFamily: 'Iblis' }}>
+        {'\ue900'}
+    </div>
+ ```
+
 If you are using react native for iOS : 
 
-In `info.plist` add for the key: `<key>UIAppFonts</key>` the value in array `<string>iblis-font.ttf</string>`
+In `info.plist` add for the key: `<key>UIAppFonts</key>` the value in array `<string>Iblis.ttf</string>`
 
-Add the `iblis-font.ttf` to your assets folder and lauch `react-native link` to link the file with your android and iOS project
+Add the `Iblis.ttf` to your assets folder and lauch `react-native link` to link the file with your android and iOS project
 
 ## How to create your own font
 

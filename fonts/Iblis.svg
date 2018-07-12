@@ -5,7 +5,7 @@
 <json>
 <![CDATA[
 {
-	"fontFamily": "iblis-font",
+	"fontFamily": "Iblis",
 	"majorVersion": 1,
 	"minorVersion": 0,
 	"fontURL": "https://github.com/vdelacou/iblis-font",
@@ -16,16 +16,16 @@
 	"license": "Apache 2.0",
 	"licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
 	"version": "Version 1.0",
-	"fontId": "iblis-font",
-	"psName": "iblis-font",
+	"fontId": "Iblis",
+	"psName": "Iblis",
 	"subFamily": "Regular",
-	"fullName": "iblis-font"
+	"fullName": "Iblis"
 }
 ]]>
 </json>
 </metadata>
 <defs>
-<font id="iblis-font" horiz-adv-x="1024">
+<font id="Iblis" horiz-adv-x="1024">
 <font-face units-per-em="1024" ascent="960" descent="-64" />
 <missing-glyph horiz-adv-x="1024" />
 <glyph unicode="&#x20;" horiz-adv-x="512" d="" />
