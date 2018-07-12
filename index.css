@@ -4,11 +4,11 @@
   font-display: swap;
   font-weight: normal;
   src: /* */
-  url('./fonts/iblis.eot'), /* */
-  url('./fonts/iblis.eot#iefix') format('embedded-opentype'), /* */
-  url('./fonts/iblis.ttf') format('truetype'), /* */
-  url('./fonts/iblis.woff') format('woff'), /* */
-  url('./fonts/iblis.svg') format('svg');
+  url('./fonts/Iblis.eot'), /* */
+  url('./fonts/Iblis.eot#iefix') format('embedded-opentype'), /* */
+  url('./fonts/Iblis.ttf') format('truetype'), /* */
+  url('./fonts/Iblis.woff') format('woff'), /* */
+  url('./fonts/Iblis.svg') format('svg');
 }
 
 [class^="iblis-"],
