@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Iblis';
+  font-style: normal;
+  font-display: swap;
+  font-weight: normal;
+  src: /* */
+  url('./fonts/Iblis.eot'), /* */
+  url('./fonts/Iblis.eot#iefix') format('embedded-opentype'), /* */
+  url('./fonts/Iblis.ttf') format('truetype'), /* */
+  url('./fonts/Iblis.woff') format('woff'), /* */
+  url('./fonts/Iblis.svg') format('svg');
+}
+
+[class^="iblis-"],
+[class*=" iblis-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Iblis' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iblis-rocket:before {
+  content: "\e900";
+}
