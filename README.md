@@ -25,7 +25,7 @@ By creating your own font, you can easily use your SVG file by displaying it lik
 
 ## 📟 &nbsp; Demos
 
-- [See fonts](https://vdelacou.github.io/iblis-font/)
+- [See fonts](https://vdelacou.github.io/iblis-font/) use `&#xe900;` in the Font Test Drive
 - [Demo source](./docs)
 
 ## 📌 &nbsp; Install
