@@ -17,7 +17,7 @@ When you use javascript or typescript (with React or React Native for example) i
 
 Many libraries exists but looks a little too much complicated to use :
 * [React Inline Svg](https://github.com/vdelacou/iblis-font) Load the SVG with an XHR request and then embed it in the document
-* [React Native Svg](https://github.com/react-native-community/react-native-svg)
+* [React Native Svg](https://github.com/react-native-community/react-native-svg) Didn't success to easy load my own SVG from a file
 
 ## 💡 &nbsp; Solution
 
@@ -82,7 +82,7 @@ Then in the zip you can find the fonts in the `/fonts` folder and the `style.css
 
 ## 🔨 &nbsp; Todo
 
-* Add more logo
+* Add more icons
 
 ## 💊 &nbsp; Known issues:
 
