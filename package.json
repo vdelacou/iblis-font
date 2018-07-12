@@ -1,7 +1,7 @@
 {
     "name": "iblis-font",
     "version": "1.0.0",
-    "description": "Roboto typeface",
+    "description": "Embedding SVG by creating your own font",
     "license": "Apache-2.0",
     "author": "DELACOURT Vincent <vincent.delacourt@gmail.com>",
     "contributors": [{
