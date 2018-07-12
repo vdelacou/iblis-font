@@ -1,6 +1,6 @@
 {
     "name": "iblis-font",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Embedding SVG by creating your own font",
     "license": "Apache-2.0",
     "author": "DELACOURT Vincent <vincent.delacourt@gmail.com>",
