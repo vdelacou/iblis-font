@@ -25,7 +25,7 @@ By creating your own font, you can easily use your SVG file by displaying it lik
 
 ## 📟 &nbsp; Demos
 
-- [See fonts](https://iblis-font.github.io/)
+- [See fonts](https://vdelacou.github.io/iblis-font/)
 - [Demo source](./docs)
 
 ## 📌 &nbsp; Install
