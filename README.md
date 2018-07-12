@@ -1,5 +1,7 @@
 
-# Iblis Font _**Embedding SVG by creating your own font**_
+# Iblis Font
+
+_**Embedding SVG by creating your own font**_
 
 [![NPM version](https://badge.fury.io/js/iblis-font.svg)](https://www.npmjs.com/package/iblis-font)
 
