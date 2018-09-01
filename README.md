@@ -34,7 +34,7 @@ By creating your own font, you can easily use your SVG file by displaying it lik
 
 or
 
-`yarn install iblis-font`
+`yarn add iblis-font`
 
 ## 💻 &nbsp; Usage
 
@@ -59,6 +59,11 @@ Or if you use React:
     <div style={{ fontFamily: 'Iblis' }}>
         {'\ue900'}
     </div>
+ ```
+
+If you use material-ui:
+ ```javascript 
+    <Icon className={classNames('iblis-rocket')} />
  ```
 
 If you are using react native for iOS : 
